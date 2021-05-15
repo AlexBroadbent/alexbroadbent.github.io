@@ -11,6 +11,8 @@ working at an international cloud computing company and a high-growth tech start
 further my technical skills in a new and exciting environment.
 
 
+---
+
 
 # Experience
 
@@ -49,6 +51,8 @@ Within [Freetrade's](https://freetrade.io) growth team, delivering features to a
 During my Industrial Experience placement at university, I worked on the Service Catalog module team at [Service Now](https://service-now.com). This gave me real world experience while also vastly improved my skills.
 
 
+---
+
 
 # Projects
 
@@ -74,5 +78,6 @@ I write about my professional experience and projects at [Medium](https://alex-b
 
 
 ---
+
 
 For a copy of my CV, please [email me](mailto:alexbroadbent14@gmail.com).
