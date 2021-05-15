@@ -2,10 +2,6 @@
 
 #### Senior Software Engineer in Hertfordshire, England.
 
-[About](#about)
-[Experience](#experience)
-[Projects](#projects)
-
 [GitHub](https://github.com/AlexBroadbent)
 [Medium](https://alex-broadbent.medium.com)
 [CV](/static/cv.pdf)
