@@ -3,6 +3,10 @@
 
 # About
 
+I have worked at a variety of start ups and enterprise companies.
+
+In my free time I enjoy going on long road trips with my fiancé. 
+
 I am enthusiastic and a quick learner with an aptitude for utilising abstraction for effective problem solving. 
 
 A senior software engineer with <script>document.write(new Date().getFullYear() - 2015 + ' years');</script> experience
@@ -79,5 +83,3 @@ I write about projects and experience at [Medium](https://alex-broadbent.medium.
 ---
 
 For a copy of my CV, please [email me](mailto:alexbroadbent14@gmail.com).
-
-&copy; Alexander Broadbent <script>document.write(new Date().getFullYear() + ".");</script>
