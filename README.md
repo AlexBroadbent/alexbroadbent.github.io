@@ -3,10 +3,6 @@
 
 # About
 
-I have worked at a variety of start ups and enterprise companies.
-
-In my free time I enjoy going on long road trips with my fiancé. 
-
 I am enthusiastic and a quick learner with an aptitude for utilising abstraction for effective problem solving. 
 
 A senior software engineer with <script>document.write(new Date().getFullYear() - 2015 + ' years');</script> experience
