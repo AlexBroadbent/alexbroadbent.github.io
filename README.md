@@ -1,5 +1,5 @@
 
-<div style="text-align: center;">[Find me on GitHub](https://github.com/AlexBroadbent)</div>
+<center>[Find me on GitHub](https://github.com/AlexBroadbent)</center>
 
 
 # About
