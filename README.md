@@ -13,11 +13,11 @@ further my technical skills in a new and exciting environment.
 
 # Experience
 
-### Tesco
+## Tesco
 
 ![Tesco](/static/tesco.jpeg)
 
-#### Working in the price services team, building a realtime pipeline for executing quotes for pricing and promotions on a multi-national scale.
+Working in the price services team, building a realtime pipeline for executing quotes for pricing and promotions on a multi-national scale.
 
 [Website](https://tesco.com)
 
