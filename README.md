@@ -1,10 +1,6 @@
 
-[GitHub](https://github.com/AlexBroadbent)
-[Medium](https://alex-broadbent.medium.com)
-[CV](/static/cv.pdf)
-[Email](mailto:alexbroadbent14@gmail.com)
+[Find me on GitHub](https://github.com/AlexBroadbent)
 
---- 
 
 # About
 
@@ -82,5 +78,7 @@ I write about projects and experience at [Medium](https://alex-broadbent.medium.
 
 
 ---
+
+For a copy of my CV, please [email me](mailto:alexbroadbent14@gmail.com).
 
 &copy; Alexander Broadbent <script>document.write(new Date().getFullYear() + ".");</script>
