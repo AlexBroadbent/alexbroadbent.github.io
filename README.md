@@ -77,7 +77,7 @@ I found the builder pattern of Jackson's ObjectMapper to be cumbersome, so I wro
 
 ![Blog on Medium](/static/blog-post.png)
 
-I write about projects and experience at [Medium](https://alex-broadbent.medium.com).
+I write about my professional experience and projects at [Medium](https://alex-broadbent.medium.com).
 
 
 ---
