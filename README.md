@@ -11,8 +11,9 @@
 [CV](/static/cv.pdf)
 [Email](mailto:alexbroadbent14@gmail.com)
 
-(#about)
+
 ## About
+
 I am enthusiastic and a quick learner with an aptitude for utilising abstraction for effective problem solving. 
 
 A senior software engineer with <div id="years"></div> experience working at an international cloud computing company 
@@ -23,7 +24,7 @@ environment.
 document.getElementById("years").innerHTML = (new Date().getFullYear() - 2015 + ' years');
 </script>
 
-(#experience)
+
 ## Experience
 
 ### Tesco
@@ -66,9 +67,9 @@ During my Industrial Experience placement at university, I worked on the Service
 
 [Website](https://service-now.com)
 
-(#projects)
-## Projects
 
+
+## Projects
 
 ### Timestamp Generator Plugin
 
