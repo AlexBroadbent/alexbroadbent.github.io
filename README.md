@@ -14,7 +14,7 @@ further my technical skills in a new and exciting environment.
 
 ## Tesco
 
-![Tesco](/static/tesco.jpeg)
+![Tesco](/static/tesco.jpg)
 
 Working in the price services team, building a realtime pipeline for executing quotes for pricing and promotions on a multi-national scale.
 
