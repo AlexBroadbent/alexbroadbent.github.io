@@ -1,5 +1,5 @@
 
-<div style="align-content: center"><a href="https://github.com/AlexBroadbent">Find me on GitHub</a></div>
+<div style="text-align: center;"><a href="https://github.com/AlexBroadbent">Find me on GitHub</a></div>
 
 # About
 
