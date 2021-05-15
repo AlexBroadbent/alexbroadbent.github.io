@@ -1,23 +1,18 @@
+
 [GitHub](https://github.com/AlexBroadbent)
-
 [Medium](https://alex-broadbent.medium.com)
-
 [CV](/static/cv.pdf)
-
 [Email](mailto:alexbroadbent14@gmail.com)
 
+--- 
 
 # About
 
 I am enthusiastic and a quick learner with an aptitude for utilising abstraction for effective problem solving. 
 
-A senior software engineer with <div id="years"></div> experience working at an international cloud computing company 
-and a high-growth tech start-up, looking for a new challenge to further my technical skills in a new and exciting 
-environment.
-
-<script>
-document.getElementById("years").innerHTML = (new Date().getFullYear() - 2015 + ' years');
-</script>
+A senior software engineer with <script>document.write(new Date().getFullYear() - 2015 + ' years');</script> experience
+working at an international cloud computing company and a high-growth tech start-up, looking for a new challenge to 
+further my technical skills in a new and exciting environment.
 
 
 # Experience
