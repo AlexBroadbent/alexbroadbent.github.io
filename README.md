@@ -66,7 +66,7 @@ I wrote a plugin for all Jetbrains IDEs (IntelliJ, WebStorm, etc.) that can gene
 
 ![Jackson DSL Wrapper](/static/jackson-dsl.png)
 
-I found the builder pattern of Jackson's ObjectMapper to be cumbersome, so I wrote a Kotlin DSL wrapper to make it much more
+I found the builder pattern of Jackson's ObjectMapper to be cumbersome, so I wrote a Kotlin DSL wrapper to make it much more. See the [source code in my GitHub repository](https://github.com/AlexBroadbent/jackson-dsl).
 
 
 ## Blog on Medium
