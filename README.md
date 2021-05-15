@@ -1,6 +1,7 @@
 
 <div style="text-align: center;"><a href="https://github.com/AlexBroadbent">Find me on GitHub</a></div>
 
+
 # About
 
 I am enthusiastic and a quick learner with an aptitude for utilising abstraction for effective problem solving. 
@@ -10,47 +11,42 @@ working at an international cloud computing company and a high-growth tech start
 further my technical skills in a new and exciting environment.
 
 
+
 # Experience
 
 ## Tesco
 
 ![Tesco](/static/tesco.jpg)
 
-Working in the price services team, building a realtime pipeline for executing quotes for pricing and promotions on a multi-national scale.
+Working in the price services team at [Tesco](https://tesco.com), building a realtime pipeline for executing quotes for pricing and promotions on a multi-national scale.
 
-[Website](https://tesco.com)
 
 ## Freetrade
 
 ![Freetrade](/static/freetrade.png)
 
-Within the growth team, delivering features to attract and delight new customers across a full-stack development environment. 
+Within [Freetrade's](https://freetrade.io) growth team, delivering features to attract and delight new customers across a full-stack development environment.
 
-[Website](https://freetrade.io)
 
 ## Flux
 
 ![Flux](/static/flux.png)
 
-Flux delivers digital receipts directly to the banking app that made the purchase. I worked on scaling up the platform to support new banks and merchants.
+[Flux](https://tryflux.com) delivers digital receipts directly to the banking app that made the purchase. I worked on scaling up the platform to support new banks and merchants.
 
-[Website](https://tryflux.com)
 
 ## Dexda
 
 ![Dexda](/static/dexda.jpg)
 
-Dexda is a high-performance tool that delivers real-time analytics through machine learning to identify and prevent incidents.
+[Dexda](https://dexda.io) is a high-performance tool that delivers real-time analytics through machine learning to identify and prevent incidents.
 
-[Website](https://dexda.io)
 
 ## Service Now
 
 ![Service Now](/static/service-now.jpg)
 
-During my Industrial Experience placement at university, I worked on the Service Catalog module team at ServiceNow. This gave me real world experience while also vastly improved my skills.
-
-[Website](https://service-now.com)
+During my Industrial Experience placement at university, I worked on the Service Catalog module team at [Service Now](https://service-now.com). This gave me real world experience while also vastly improved my skills.
 
 
 
@@ -61,6 +57,7 @@ During my Industrial Experience placement at university, I worked on the Service
 ![Timestamp Generator Plugin](/static/timestamp-generator.png)
 
 I wrote a plugin for all Jetbrains IDEs (IntelliJ, WebStorm, etc.) that can generate a timestamp, I required timestamps while writing a lot of test cases and got fed up with writing them manually. See the [source code in my GitHub repository](https://github.com/AlexBroadbent/timestamp-generator-plugin).
+
 
 ## Jackson DSL Wrapper
 
