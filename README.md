@@ -4,9 +4,11 @@
 
 # About
 
-While working at a variety of start-ups and enterprise companies, I have learned to write scalable and maintainable code
-within a broad range of languages and frameworks. I have extensive experience of working as a backend JVM engineer, as
-well as going full-stack into writing native Android and iOS apps.
+While working at a variety of start-ups and enterprise companies, I have learned to write scalable and maintainable 
+code within a broad range of languages and frameworks. 
+
+I have extensive experience of working as a backend JVM engineer, as well as going full-stack into writing native 
+Android and iOS apps.
 
 In my spare time, I enjoy cooking and going on long road trips across the UK.
 
