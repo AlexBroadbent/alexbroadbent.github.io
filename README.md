@@ -4,11 +4,11 @@
 
 # About
 
-I am enthusiastic and a quick learner with an aptitude for utilising abstraction for effective problem solving. 
+While working at a variety of start-ups and enterprise companies, I have learned to write scalable and maintainable code
+within a broad range of languages and frameworks. I have extensive experience of working as a backend JVM engineer, as
+well as going full-stack into writing native Android and iOS apps.
 
-A senior software engineer with <script>document.write(new Date().getFullYear() - 2015 + ' years');</script> experience
-working at an international cloud computing company and a high-growth tech start-up, looking for a new challenge to 
-further my technical skills in a new and exciting environment.
+In my spare time, I enjoy cooking and going on long road trips across the UK.
 
 
 ---
