@@ -62,24 +62,29 @@ During my Industrial Experience placement at university, I worked on the Service
 
 ![Timestamp Generator Plugin](/static/timestamp-generator.png)
 
-I wrote a plugin for all Jetbrains IDEs (IntelliJ, WebStorm, etc.) that can generate a timestamp, I required timestamps while writing a lot of test cases and got fed up with writing them manually. See the [source code in my GitHub repository](https://github.com/AlexBroadbent/timestamp-generator-plugin).
+I wrote a plugin for all Jetbrains IDEs (IntelliJ, WebStorm, etc.) that can generate a timestamp. While writing unit tests I found that creating a new timestamp for each test case was a slow process so I wrote a plugin that inserts a timestamp through a keyboard shortcut and then published the plugin for public use. 
+
+See the [source code in my GitHub repository](https://github.com/AlexBroadbent/timestamp-generator-plugin) and [plugin on the Jetbrains plugin portal](https://plugins.jetbrains.com/plugin/13012-timestamp-generator).
 
 
 ## Jackson DSL Wrapper
 
 ![Jackson DSL Wrapper](/static/jackson-dsl.png)
 
-I found the builder pattern of Jackson's ObjectMapper to be cumbersome, so I wrote a Kotlin DSL wrapper to make it much more. See the [source code in my GitHub repository](https://github.com/AlexBroadbent/jackson-dsl).
+I found the builder pattern of Jackson's ObjectMapper to be cumbersome, so I wrote a Kotlin DSL (domain-specific language) wrapper to make a delightful syntax which is a joy to use. 
+
+See the [source code in my GitHub repository](https://github.com/AlexBroadbent/jackson-dsl).
 
 
 ## Blog on Medium
 
 ![Blog on Medium](/static/blog-post.png)
 
-I write about my professional experience and projects at [Medium](https://alex-broadbent.medium.com).
+From time to time, I write about my professional experience and projects on Medium which covers a wide range of technical and interesting topics that I have worked with.
 
+[Follow me on Medium](https://alex-broadbent.medium.com).
 
 ---
 
 
-For a copy of my CV, please [email me](mailto:alexbroadbent14@gmail.com).
+For a copy of my CV, please [email me](mailto:hello@alexbroadbent.co.uk).
