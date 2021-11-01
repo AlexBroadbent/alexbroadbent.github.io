@@ -4,11 +4,9 @@
 
 # About
 
-While working at a variety of start-ups and enterprise companies, I have learned to write scalable and maintainable 
-code within a broad range of languages and frameworks. 
-
-I have extensive experience of working as a backend JVM engineer, as well as going full-stack into writing native 
-Android and iOS apps.
+I am a polygot senior software engineer with 8+ years experience varying between international enterprise company to small
+team tech start ups. Currently working at the Tesco’s price service HTTP API team focused on the promotion execution
+domain.
 
 In my spare time, I enjoy cooking and going on long road trips across the UK.
 
@@ -18,39 +16,59 @@ In my spare time, I enjoy cooking and going on long road trips across the UK.
 
 # Experience
 
-## Tesco
+### Tesco
+
+#### Welwyn Garden City, Senior Software Engineer
 
 ![Tesco](/static/tesco.jpg)
 
-Working in the price services team at [Tesco](https://tesco.com), building a realtime pipeline for executing quotes for pricing and promotions on a multi-national scale.
+* Currently in the Quote HTTP API team, growing a real-time pipeline on a multi-national scale
+* Led the launch of Delivery Saver Service in Ireland which involved architecting multiple solutions
+* Regularly involved in hiring, on-boarding new engineers, work structure and allocation
 
+> Java, Micronaut, Apache Kafka, RxJava, Vertx, Microsoft Azure, AWS, Groovy, Spock, Cucumber, Couchbase, Jenkins, Gradle, Git, Jira
 
-## Freetrade
+[Website](https://tesco.com)
+
+### Freetrade
+
+#### London, Full-Stack Mid-Level Software Engineer
 
 ![Freetrade](/static/freetrade.png)
 
-Within [Freetrade's](https://freetrade.io) growth team, delivering features to attract and delight new customers across a full-stack development environment.
+* Worked full-stack across a TypeScript server with native Android and iOS apps
+* Delivered features like Freeshares, SIPPs, OpenBanking deposits and Subscriptions in the Growth Team
 
+> TypeScript, Node JS, Jetbrains Webstorm, Android, Kotlin, RxKotlin, Android Studio, iOS, Swift, RxSwift, XCode, Google Cloud Platform, Serverless functions, Firestore, Circle CI, Terraform, Git, Yarn, Jira
 
-## Flux
+[Website](https://freetrade.io)
+
+### Flux
+
+#### London, Backend Mid-Level Software Engineer
 
 ![Flux](/static/flux.png)
 
-[Flux](https://tryflux.com) delivers digital receipts directly to the banking app that made the purchase. I worked on scaling up the platform to support new banks and merchants.
+* Having joined as the third developer, my focus was on scaling with demand, maintaining uptime and an accurate receipt match rate
+* Worked on integrating and maintaining bank and retail partners, such as Starling, Monzo, Barclays, KFC and Just Eat
 
+> Kotlin, Dropwizard, Ktor, PostgreSQL, Guice, Kodein, Github deployments, Jira, ClubHouse (now Shortcut), KotlinTest, MockK, Kubernetes, Postman, Amazon SQS, Amazon S3, Drone CI, Datadog, OpsGenie, Agile Methodology, Jetbrains IntelliJ, Git, Gradle
 
-## Dexda
+[Website](https://tryflux.com) 
+
+### Dexda
+
+#### London, Backend Mid-Level Software Engineer
 
 ![Dexda](/static/dexda.jpg)
+ 
+* Contributed towards defining the core architecture using machine learning
+* First exposure to being responsible for designing, implementing and improving the backend
+REST APIs
 
-[Dexda](https://dexda.io) is a high-performance tool that delivers real-time analytics through machine learning to identify and prevent incidents.
+> Java, MapR, Apache HBase, Apache Kafka, ElasticSearch, Dropwizard, JUnit, AssertJ, Mockito, Postman, Prometheus, Kubernetes, Jenkins CI, Gitlab, CI/CD pipeline, Agile, Git, Maven
 
-
-## Service Now
-
-![Service Now](/static/service-now.jpg)
-
-During my Industrial Experience placement at university, I worked on the Service Catalog module team at [Service Now](https://service-now.com). This gave me real world experience while also vastly improved my skills.
+[Website](https://dexda.io)
 
 
 ---
