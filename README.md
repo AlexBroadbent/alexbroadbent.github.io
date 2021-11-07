@@ -76,6 +76,14 @@ REST APIs
 
 # Projects
 
+## Money
+
+![Money](/static/money.png)
+
+After working around different companies which all had an implementation of what "money" looks like in a class I thought I should write my own library of what I thought was the best features from each implementation. The key features are to store money in its lowest denomination (eg. £1.50 as 150) and to provide serialization and deserialization wrappers for popular libraries like [Gson](https://github.com/google/gson), [Jackson](https://github.com/FasterXML/jackson) and [KotlinX Serialization](https://github.com/Kotlin/kotlinx.serialization). 
+
+See the [source code in my Github repository](http://github.com/AlexBroadbent/money) and [artifacts on Maven Central](https://mvnrepository.com/artifact/uk.co.alexbroadbent/money-core).
+
 ## Timestamp Generator Plugin
 
 ![Timestamp Generator Plugin](/static/timestamp-generator.png)
