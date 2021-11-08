@@ -26,7 +26,7 @@ In my spare time, I enjoy cooking and going on long road trips across the UK.
 * Led the launch of Delivery Saver Service in Ireland which involved architecting multiple solutions
 * Regularly involved in hiring, on-boarding new engineers, work structure and allocation
 
-> Java, Micronaut, Apache Kafka, RxJava, Vertx, Microsoft Azure, AWS, Groovy, Spock, Cucumber, Couchbase, Jenkins, Gradle, Git, Jira
+Java, Micronaut, Apache Kafka, RxJava, Vertx, Microsoft Azure, AWS, Groovy, Spock, Cucumber, Couchbase, Jenkins, Gradle, Git, Jira
 
 [Website](https://tesco.com)
 
@@ -39,7 +39,7 @@ In my spare time, I enjoy cooking and going on long road trips across the UK.
 * Worked full-stack across a TypeScript server with native Android and iOS apps
 * Delivered features like Freeshares, SIPPs, OpenBanking deposits and Subscriptions in the Growth Team
 
-> TypeScript, Node JS, Jetbrains Webstorm, Android, Kotlin, RxKotlin, Android Studio, iOS, Swift, RxSwift, XCode, Google Cloud Platform, Serverless functions, Firestore, Circle CI, Terraform, Git, Yarn, Jira
+TypeScript, Node JS, Jetbrains Webstorm, Android, Kotlin, RxKotlin, Android Studio, iOS, Swift, RxSwift, XCode, Google Cloud Platform, Serverless functions, Firestore, Circle CI, Terraform, Git, Yarn, Jira
 
 [Website](https://freetrade.io)
 
@@ -52,7 +52,7 @@ In my spare time, I enjoy cooking and going on long road trips across the UK.
 * Having joined as the third developer, my focus was on scaling with demand, maintaining uptime and an accurate receipt match rate
 * Worked on integrating and maintaining bank and retail partners, such as Starling, Monzo, Barclays, KFC and Just Eat
 
-> Kotlin, Dropwizard, Ktor, PostgreSQL, Guice, Kodein, Github deployments, Jira, ClubHouse (now Shortcut), KotlinTest, MockK, Kubernetes, Postman, Amazon SQS, Amazon S3, Drone CI, Datadog, OpsGenie, Agile Methodology, Jetbrains IntelliJ, Git, Gradle
+Kotlin, Dropwizard, Ktor, PostgreSQL, Guice, Kodein, Github deployments, Jira, ClubHouse (now Shortcut), KotlinTest, MockK, Kubernetes, Postman, Amazon SQS, Amazon S3, Drone CI, Datadog, OpsGenie, Agile Methodology, Jetbrains IntelliJ, Git, Gradle
 
 [Website](https://tryflux.com) 
 
@@ -66,7 +66,7 @@ In my spare time, I enjoy cooking and going on long road trips across the UK.
 * First exposure to being responsible for designing, implementing and improving the backend
 REST APIs
 
-> Java, MapR, Apache HBase, Apache Kafka, ElasticSearch, Dropwizard, JUnit, AssertJ, Mockito, Postman, Prometheus, Kubernetes, Jenkins CI, Gitlab, CI/CD pipeline, Agile, Git, Maven
+Java, MapR, Apache HBase, Apache Kafka, ElasticSearch, Dropwizard, JUnit, AssertJ, Mockito, Postman, Prometheus, Kubernetes, Jenkins CI, Gitlab, CI/CD pipeline, Agile, Git, Maven
 
 [Website](https://dexda.io)
 
